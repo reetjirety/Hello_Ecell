@@ -9,7 +9,7 @@ body{
     /* background-repeat: no-repeat; */
     /* background-color: rgb(231, 227, 227); */
    background: linear-gradient( #131313, #162949 100%);
-    
+    width: 100vw;
     
 }
 
